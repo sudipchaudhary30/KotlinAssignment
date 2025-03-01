@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace 'com.pratiksha.quizgame'
+    namespace 'com.example.sudiplearningnestquiz'
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.pratiksha.quizgame"
+        applicationId "com.example.sudiplearningnestquiz"
         minSdk 26
         targetSdk 33
         versionCode 1
